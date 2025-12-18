@@ -1,5 +1,0 @@
-ROBUSTNESS SUMMARY (paste-ready)
-
-We assess robustness across alternative mortgage-rate shock definitions (deviation-from-trend with 8- and 12-quarter moving averages, quarterly changes, and year-over-year changes) and distributed-lag lengths (K=4,6,8). Across specifications, the sample remains 51 states (Saiz coverage: 42 states). Table robustness_summary.xlsx reports multivariate coefficients for Saiz elasticity and permits sensitivity.
-
-Interpretation: if the sign/magnitude of the Saiz coefficient and permits coefficient remain broadly stable across shock definitions and lag lengths, the cross-state relationship is robust to these alternative choices.
