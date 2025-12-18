@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (repo şişmesin diye)
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
